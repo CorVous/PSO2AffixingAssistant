@@ -2189,7 +2189,7 @@ const lang = Object.freeze({
     "HZ01": {
         name_en: "All Resist I",
         name_jp: "オールレジストⅠ",
-        name_glen: "Soverign Ward I",
+        name_glen: "Sovereign Ward I",
         effect_en: "All Resist(+1)",
         effect_jp: "全耐性(+1)",
         effect_glen: "All Resist(+1)"
@@ -2197,7 +2197,7 @@ const lang = Object.freeze({
     "HZ02": {
         name_en: "All Resist II",
         name_jp: "オールレジストⅡ",
-        name_glen: "Soverign Ward II",
+        name_glen: "Sovereign Ward II",
         effect_en: "All Resist(+2)",
         effect_jp: "全耐性(+2)",
         effect_glen: "All Resist(+2)"
@@ -2205,7 +2205,7 @@ const lang = Object.freeze({
     "HZ03": {
         name_en: "All Resist III",
         name_jp: "オールレジストⅢ",
-        name_glen: "Soverign Ward III",
+        name_glen: "Sovereign Ward III",
         effect_en: "All Resist(+3)",
         effect_jp: "全耐性(+3)",
         effect_glen: "All Resist(+3)"
@@ -2213,7 +2213,7 @@ const lang = Object.freeze({
     "HZ04": {
         name_en: "All Resist IV",
         name_jp: "オールレジストⅣ",
-        name_glen: "Soverign Ward IV",
+        name_glen: "Sovereign Ward IV",
         effect_en: "All Resist(+4)",
         effect_jp: "全耐性(+4)",
         effect_glen: "All Resist(+4)"
@@ -2221,7 +2221,7 @@ const lang = Object.freeze({
     "HZ05": {
         name_en: "All Resist V",
         name_jp: "オールレジストⅤ",
-        name_glen: "Soverign Ward V",
+        name_glen: "Sovereign Ward V",
         effect_en: "All Resist(+5)",
         effect_jp: "全耐性(+5)",
         effect_glen: "All Resist(+5)"
@@ -4445,7 +4445,7 @@ const lang = Object.freeze({
     "RB33": {
         name_en: "Greuzoras Soul",
         name_jp: "グリュゾラス・ソール",
-        name_glen: "Greuzoras Soul",
+        name_glen: "Gryzorus Soul",
         effect_en: "R-ATK(+35),<br>DEX(+5),<br>PP(+3)",
         effect_jp: "射撃力(+35),<br>技量(+5),<br>PP(+3)",
         effect_glen: "RNG Pwr(+35),<br>DEX(+5),<br>PP(+3)"
@@ -4501,7 +4501,7 @@ const lang = Object.freeze({
     "RC32": {
         name_en: "Duvals Soul",
         name_jp: "ドゥバルス・ソール",
-        name_glen: "Duvals Soul",
+        name_glen: "Deubarz Soul",
         effect_en: "T-ATK(+35),<br>DEX(+5),<br>HP(+20),<br>PP(+1)",
         effect_jp: "法撃力(+35),<br>技量(+5),<br>HP(+20),<br>PP(+1)",
         effect_glen: "TEC Pwr(+35),<br>DEX(+5),<br>HP(+20),<br>PP(+1)"
@@ -4853,7 +4853,7 @@ const lang = Object.freeze({
     "SH30": {
         name_en: "Magi The Soul",
         name_jp: "マギー・ジ・ソール",
-        name_glen: "Magia Di Soul",
+        name_glen: "Magi Di Soul",
         effect_en: "T-ATK(+35),<br>PP(+3)",
         effect_jp: "法撃力(+35),<br>PP(+3)",
         effect_glen: "TEC Pwr(+35),<br>PP(+3)"
@@ -5685,7 +5685,7 @@ const lang = Object.freeze({
     "YA05": {
         name_en: "Sentence Arma",
         name_jp: "センテンス・アルマ",
-        name_glen: "Sentence Deftness",
+        name_glen: "Sentence Arma",
         effect_en: "S-ATK(+20),<br>HP(+20),<br>PP(+3)",
         effect_jp: "打撃力(+20),<br>HP(+20),<br>PP(+3)",
         effect_glen: "MEL Pwr(+20),<br>HP(+20),<br>PP(+3)"
@@ -5701,7 +5701,7 @@ const lang = Object.freeze({
     "YA15": {
         name_en: "Sentence Tiro",
         name_jp: "センテンス・ティロ",
-        name_glen: "Sentence Tiro",
+        name_glen: "Sentence Tyro",
         effect_en: "R-ATK(+20),<br>HP(+20),<br>PP(+3)",
         effect_jp: "射撃力(+20),<br>HP(+20),<br>PP(+3)",
         effect_glen: "RNG Pwr(+20),<br>HP(+20),<br>PP(+3)"
